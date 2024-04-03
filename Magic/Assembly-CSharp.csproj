@@ -71,6 +71,7 @@
      <Compile Include="Assets\imports\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextInfoDebugTool.cs" />
      <Compile Include="Assets\imports\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_FrameRateCounter.cs" />
      <Compile Include="Assets\imports\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_B.cs" />
+     <Compile Include="Assets\imports\Simple 2D Platformer BE2\ReadMe\Scripts\ReadmeBE2.cs" />
      <Compile Include="Assets\scripts\OptionsMenu.cs" />
      <Compile Include="Assets\imports\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
      <Compile Include="Assets\imports\TextMesh Pro\Examples &amp; Extras\Scripts\SkewTextExample.cs" />
@@ -86,8 +87,11 @@
      <Compile Include="Assets\imports\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshProFloatingText.cs" />
      <Compile Include="Assets\imports\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeA.cs" />
      <Compile Include="Assets\imports\TextMesh Pro\Examples &amp; Extras\Scripts\EnvMapAnimator.cs" />
-     <Compile Include="Assets\imports\Simple 2D Platformer BE2\ReadMe\Scripts\ReadmeBE2.cs" />
      <Compile Include="Assets\scripts\PlayerMovement.cs" />
+     <Compile Include="Assets\scripts\AudioManager.cs" />
+     <Compile Include="Assets\scripts\PlayerAttack.cs" />
+     <Compile Include="Assets\scripts\Projectile.cs" />
+     <Compile Include="Assets\back.cs" />
      <None Include="Assets\imports\TextMesh Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\imports\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\imports\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
@@ -102,7 +106,6 @@
      <None Include="Assets\imports\TextMesh Pro\Shaders\TMP_SDF.shader" />
      <None Include="Assets\imports\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
      <None Include="Assets\imports\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
-     <None Include="Assets\imports\War\Slime Enemy - Pixel Art\README.txt" />
      <None Include="Assets\imports\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
      <None Include="Assets\imports\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
      <None Include="Assets\imports\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
