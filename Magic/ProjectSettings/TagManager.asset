@@ -7,6 +7,8 @@ TagManager:
   - Ladder
   - Platform
   - Ground
+  - background
+  - enemy
   layers:
   - Default
   - TransparentFX
@@ -18,9 +20,9 @@ TagManager:
   - 
   - Ground
   - Wall
-  - 
-  - 
-  - 
+  - background
+  - Player
+  - Enemy
   - 
   - 
   - 
@@ -43,4 +45,19 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1771977573
+    locked: 0
+  - name: Foreground
+    uniqueID: 1984819019
+    locked: 0
+  - name: Details
+    uniqueID: 1645039499
+    locked: 0
+  - name: Player
+    uniqueID: 1768869775
+    locked: 0
+  - name: Ground
+    uniqueID: 2135805663
     locked: 0
